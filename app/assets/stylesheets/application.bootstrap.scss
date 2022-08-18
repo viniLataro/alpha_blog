@@ -2,10 +2,6 @@
 @import 'bootstrap-icons/font/bootstrap-icons';
 @import "../node_modules/bootstrap/scss/bootstrap";
 
-.navbar {
-  background-color: black !important;
-}
-
 .nav-link {
   color: white !important;
 }
@@ -34,5 +30,5 @@ html, body {
 }
 
 form.button_to {
-  display: inline;
+  display: inline-block;
 }
